@@ -1,0 +1,9 @@
+worldAABB -200.0 -100.0 200.0 200.0
+ground 50.0 0.0 -30.0 45.0
+ground 50.0 -20.0 25.0 -45.0
+goal 0 10.0 0.0
+goal 150 -20.0 30.0
+goal 240 -50.0 60.0
+spawnPoint -30.0 -40.0
+lifetime 30.0
+end

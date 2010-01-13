@@ -1,0 +1,13 @@
+rtNEATbox[1] is a simple neuro-evolution sandbox. Two-dimensional levels can be
+created, in which a group of organisms are simulated. The goal is for the
+organisms to navigate the terrain to reach a certain goal point. rtNEAT[2] is
+used for the neuro-evolution of the organisms. Physics simulation is provided
+by Box2D[3].
+
+In order to compile, Box2D and GLUT will need to be installed. Under
+Ubuntu/Debian this can be achieved by installing the libbox2d-dev and
+freeglut-dev packages. Then run `make` to compile.
+
+[1] http://da.vidr.cc/projects/rtneatbox/
+[2] http://nn.cs.utexas.edu/?rtneat
+[3] http://box2d.org/

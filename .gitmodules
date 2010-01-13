@@ -1,0 +1,3 @@
+[submodule "thirdparty/librtneat"]
+	path = thirdparty/librtneat
+	url = git://github.com/davidar/librtneat.git
